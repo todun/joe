@@ -1,3 +1,14 @@
+# Setup
+```bash
+git clone <JOE_REPO>
+cd /path/to/joe/repo
+go get github.com/codegangsta/cli
+go get github.com/termie/go-shutil
+./tool.sh build
+go build
+./joe
+```
+
 ![](http://i.imgur.com/y8g506n.png?1)
 
 # joe
